@@ -1,4 +1,4 @@
-Rundeck Customized For Asuka
+Customized Rundeck For Asuka
 ========
 
 Rundeck is an open source automation service with a web console,
