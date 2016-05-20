@@ -1,7 +1,7 @@
-Rundeck
+Rundeck Customized For Asuka
 ========
 
-Rundeck is an open source automation service with a web console, 
+Rundeck is an open source automation service with a web console,
 command line tools and a WebAPI.
 It lets you easily run automation tasks across a set of nodes.
 
@@ -19,7 +19,7 @@ Gradle Build
 
     ./gradlew build
 
-Artifacts: 
+Artifacts:
 
 * `rundeckapp/target/rundeck-X.Y.war`
 * `rundeck-launcher/launcher/build/libs/rundeck-launcher-X.Y.jar`
@@ -31,7 +31,7 @@ Other builds
 ======
 
 The documentation can be built with [pandoc](http://johnmacfarlane.net/pandoc/).
-    
+
 Build the documentation. Artifacts in `docs/en/dist`:
 
     cd docs
@@ -42,7 +42,7 @@ You can build .rpm or .deb files (requires pandoc to build the docs):
 Build the RPM. Artifacts in `packaging/rpmdist/RPMS/noarch/*.rpm`
 
     make rpm
-    
+
 Build the .deb. Artifacts in `packaging/*.deb`:
 
     make deb
@@ -62,7 +62,7 @@ To start from the rundeck-launcher.jar, put it in a directory named ~/rundeck, t
 
 If you'd like to install via RPM, you can use Yum:
 
-    rpm -Uvh http://repo.rundeck.org/latest.rpm 
+    rpm -Uvh http://repo.rundeck.org/latest.rpm
     yum install rundeck
 
 OR install directly from RPM:
@@ -108,16 +108,4 @@ Do you have changes to contribute? Please see the [Development](https://github.c
 License
 ======
 
-Copyright 2015 SimplifyOps
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+By nghuubaotrung
