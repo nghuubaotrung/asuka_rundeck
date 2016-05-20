@@ -1,0 +1,8 @@
+[2016-05-20 15:27:32,481] admin start [1:running] the_cat_test admin/- "-/shinkino_check"[7a27e3b1-ea68-40e4-a5f8-218121f1b2b3] 
+[2016-05-20 15:27:39,940] admin finish [1:succeeded] the_cat_test admin/- "-/shinkino_check"[7a27e3b1-ea68-40e4-a5f8-218121f1b2b3] 
+[2016-05-20 15:30:08,870] admin start [2:running] the_cat_test admin/- "-/shinkino_check"[7a27e3b1-ea68-40e4-a5f8-218121f1b2b3] 
+[2016-05-20 15:30:14,681] admin finish [2:succeeded] the_cat_test admin/- "-/shinkino_check"[7a27e3b1-ea68-40e4-a5f8-218121f1b2b3] 
+[2016-05-20 15:45:00,211] admin start [3:running] the_cat_test admin/- "-/shinkino_check"[7a27e3b1-ea68-40e4-a5f8-218121f1b2b3] 
+[2016-05-20 15:45:05,934] admin finish [3:succeeded] the_cat_test admin/- "-/shinkino_check"[7a27e3b1-ea68-40e4-a5f8-218121f1b2b3] 
+[2016-05-20 17:03:12,858] admin start [4:running] asuka admin/- "-/Update Multi-Calendar For SEO"[8253a910-ae8e-4815-97e8-92afd164a9f0] 
+[2016-05-20 17:03:20,309] admin finish [4:succeeded] asuka admin/- "-/Update Multi-Calendar For SEO"[8253a910-ae8e-4815-97e8-92afd164a9f0] 

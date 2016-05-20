@@ -1,0 +1,12 @@
+^text/x-rundeck-log-v2.0^
+^2016-05-20T06:27:32Z|stepbegin||{node=mpc-1052.local|step=1|stepctx=1|user=admin}|^
+^2016-05-20T06:27:32Z|nodebegin||{node=mpc-1052.local|step=1|stepctx=1|user=nguyen_huubaotrung}|^
+^2016-05-20T06:27:33Z|||{node=mpc-1052.local|step=1|stepctx=1|user=nguyen_huubaotrung}|25^
+^2016-05-20T06:27:38Z|||{node=mpc-1052.local|step=1|stepctx=1|user=nguyen_huubaotrung}|  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current^
+^2016-05-20T06:27:38Z|||{node=mpc-1052.local|step=1|stepctx=1|user=nguyen_huubaotrung}|                                 Dload  Upload   Total   Spent    Left  Speed^
+^2016-05-20T06:27:38Z|||{node=mpc-1052.local|step=1|stepctx=1|user=nguyen_huubaotrung}|^
+^2016-05-20T06:27:39Z|||{node=mpc-1052.local|step=1|stepctx=1|user=nguyen_huubaotrung}|ok^
+^2016-05-20T06:27:39Z|||{node=mpc-1052.local|step=1|stepctx=1|user=nguyen_huubaotrung}|  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1783    0     2  100  1781      2   2084 --:--:-- --:--:-- --:--:--  2085^
+^2016-05-20T06:27:39Z|nodeend||{node=mpc-1052.local|step=1|stepctx=1|user=nguyen_huubaotrung}|^
+^2016-05-20T06:27:39Z|stepend||{node=mpc-1052.local|step=1|stepctx=1|user=admin}|^
+^END^
